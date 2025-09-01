@@ -1,3 +1,3 @@
 # Pagefind Beta Releases
 
-This repository serves to host beta releases of [Pagefind](https://github.com/CloudCannon/pagefind/). All issues, discussion, and code lives in the main [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind/) repository.
+This repository serves to host beta releases of [Pagefind](https://github.com/pagefind/pagefind/). All issues, discussion, and code lives in the main [pagefind/pagefind](https://github.com/pagefind/pagefind/) repository.
